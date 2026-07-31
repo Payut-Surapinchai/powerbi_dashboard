@@ -18,11 +18,18 @@ The dashboard explores 4 main aspects of business performance:
 - Executive Summary with KPI metrics
 
 ![Executive Summary](/executive_summary.png)
+
 - Sales & Customer Analysis
 
+![Sales & Customer Analysis](/sales_cust_analysis.png)
 
 - Product Performance
+
+![Product Performance](/product_performance.png)
+
 - Store Performance & Geographical Analysis
+
+![Store Performance & Geographical Analysis](/store_performance.png)
 
 ## Skills that I used & learned
 
