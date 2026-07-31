@@ -16,7 +16,11 @@ Excel and Python, making business questions, and building a Power BI dashboard t
 The dashboard explores 4 main aspects of business performance:
 
 - Executive Summary with KPI metrics
+
+![Executive Summary](/executive_summary.png)
 - Sales & Customer Analysis
+
+
 - Product Performance
 - Store Performance & Geographical Analysis
 
