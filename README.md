@@ -41,3 +41,4 @@ The dashboard explores 4 main aspects of business performance:
 Let me know if there are any questions.
 
 Contact: payut.surapinchai2005@gmail.com
+My LinkedIn: https://www.linkedin.com/in/payut-surapinchai
